@@ -1,0 +1,46 @@
+/* color_palette {
+    .dark {color: #011627;}
+    .light {color:#FDFFFC;}
+    .turqouise {color: #2EC4B6;}
+    .red {color: #E71D36;}
+    .orange {color: #FF9F1C;}
+    retrieved from https://coolors.co/palettes/trending
+} */
+
+p {
+    font: 'Times New Roman', serif;
+    margin : 0px;
+    padding : 10px;
+    background-color: #FDFFFC;
+    color: #011627;
+}
+
+header nav {
+    background-color: #FF9F1C;
+    padding: 5px;
+}
+
+h1 {
+    padding : 5px;
+}
+
+img {
+    width : 200px;
+    padding : 10px;
+}
+
+h2 {
+    padding : 5px;
+}
+
+body {
+    width : 600px;
+    padding : 0px;
+    margin : 0px;
+    background-color: #2EC4B6
+}
+
+footer {
+    padding: 5px ;
+    background-color : #E71D36;
+}
