@@ -1,9 +1,9 @@
 /* color_palette {
-    .dark {color: #011627;}
-    .light {color:#FDFFFC;}
-    .turqouise {color: #2EC4B6;}
-    .red {color: #E71D36;}
-    .orange {color: #FF9F1C;}
+    blood-red: #8c1c13ff;
+    blushed-brick: #bf4342ff;
+    almond-cream: #e7d7c1ff;
+    dusty-taupe: #a78a7fff;
+    mauve-bark: #735751ff;
     retrieved from https://coolors.co/palettes/trending
 } */
 
@@ -11,12 +11,12 @@ p {
     font: 'Times New Roman', serif;
     margin : 0px;
     padding : 10px;
-    background-color: #FDFFFC;
-    color: #011627;
+    background-color: #735751ff;
+    color: #e7d7c1ff;
 }
 
 header nav {
-    background-color: #FF9F1C;
+    background-color: #bf4342ff;
     padding: 5px;
 }
 
@@ -37,10 +37,10 @@ body {
     width : 600px;
     padding : 0px;
     margin : 0px;
-    background-color: #2EC4B6
+    background-color: #a78a7fff
 }
 
 footer {
     padding: 5px ;
-    background-color : #E71D36;
+    background-color : #8c1c13ff;
 }

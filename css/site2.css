@@ -1,0 +1,72 @@
+/* color_palette {
+    .dark {color: #011627;}
+    .light {color:#FDFFFC;}
+    .turqouise {color: #2EC4B6;}
+    .red {color: #E71D36;}
+    .orange {color: #FF9F1C;}
+    retrieved from https://coolors.co/palettes/trending
+} */
+
+p {
+    font-family: 'Courier New', monospace;
+    margin : 0px;
+    padding : 10px;
+    background-color: #E71D36;
+    color:#FDFFFC;
+}
+
+header nav {
+    background-color: #FF9F1C;
+    padding: 5px;
+}
+
+h1 {
+    color: #011627;
+    padding : 5px;
+}
+
+img {
+    width : 200px;
+    padding : 10px;
+}
+
+h2 {
+    color: #011627;
+    padding : 5px;
+}
+
+body {
+    text-align: center;
+    width : 100%;
+    padding : 0px;
+    margin : 0px;
+    background-image: url("./../images/Flag.jpg");
+}
+
+#tableDiv {
+    background-color: #E71D36;
+    margin-bottom: 25px;
+}
+
+#plansPageLastParagraph {
+    margin-bottom: 25px;
+}
+
+#mainPageLastParagraph {
+    margin-bottom: 25px;
+}
+
+ol {
+    margin : 0px;
+    margin-bottom: 25px;
+    padding : 5px;
+    background-color : #E71D36;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 5px ;
+    background-color : #2EC4B6;
+}
